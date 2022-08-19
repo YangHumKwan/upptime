@@ -11,7 +11,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.yanghumkwan.pt
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/YangHumKwan/upptime/raw/master/assets/aphyhk.png
   theme: night
   name: Upptime
   introTitle: "Monitoring"
