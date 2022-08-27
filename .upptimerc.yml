@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Public Website
     url: https://yanghumkwan.pt
+  - name: Isna API
+    url: https://isna.yanghumkwan.pt
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -22,6 +24,7 @@ status-website:
       href: /
     - title: Website
       href: https://yanghumkwan.pt
+    
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
