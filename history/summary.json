@@ -22,17 +22,19 @@
     "url": "https://isna.yanghumkwan.pt/api/v1/health/check",
     "icon": "https://favicons.githubusercontent.com/isna.yanghumkwan.pt",
     "slug": "isna-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 598,
-    "timeDay": 598,
-    "timeWeek": 598,
-    "timeMonth": 598,
-    "timeYear": 598,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 653,
+    "timeDay": 653,
+    "timeWeek": 653,
+    "timeMonth": 653,
+    "timeYear": 653,
+    "dailyMinutesDown": {
+      "2022-08-27": 0
+    }
   }
 ]
