@@ -1,7 +1,7 @@
 url: https://isna.yanghumkwan.pt/api/v1/health/check
-status: down
-code: 502
-responseTime: 682
-lastUpdated: 2022-09-10T18:10:14.542Z
+status: up
+code: 200
+responseTime: 489
+lastUpdated: 2022-09-10T18:41:40.703Z
 startTime: Sat Aug 27 2022 01:49:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
