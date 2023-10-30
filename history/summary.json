@@ -4,19 +4,19 @@
     "url": "https://yanghumkwan.pt",
     "icon": "https://icons.duckduckgo.com/ip3/yanghumkwan.pt.ico",
     "slug": "public-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 246,
-    "timeWeek": 191,
-    "timeMonth": 200,
-    "timeYear": 231,
+    "timeDay": 213,
+    "timeWeek": 186,
+    "timeMonth": 198,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 13
     }
   }
 ]
