@@ -6,14 +6,14 @@
     "slug": "public-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.76%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 369,
-    "timeWeek": 270,
-    "timeMonth": 235,
+    "timeDay": 153,
+    "timeWeek": 253,
+    "timeMonth": 230,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2024-06-20": 18
