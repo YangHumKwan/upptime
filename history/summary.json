@@ -4,7 +4,7 @@
     "url": "https://yanghumkwan.pt",
     "icon": "https://icons.duckduckgo.com/ip3/yanghumkwan.pt.ico",
     "slug": "public-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 197,
     "timeYear": 275,
     "dailyMinutesDown": {
+      "2026-03-30": 0,
       "2025-11-18": 90
     }
   }
